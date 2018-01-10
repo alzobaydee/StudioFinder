@@ -1,0 +1,69 @@
+var listData = {
+	"studios": {
+		"studio1": [{
+			"name": "Sax & Fön"
+		},
+		{
+			"image": "img1.png"
+		},
+		{
+			"price": "320  kr"
+		},
+		{ 
+			"time": "30 min"
+		}
+	],
+		"studio2": [{
+			"name": "Hårizont"
+		},
+		{
+			"image": "img1.png"
+		},
+		{
+			"price": "320  kr"
+		},
+		{ 
+			"time": "30 min"
+		}
+	],
+		"studio3": [{
+			"name": "Hårhuset"
+		},
+		{
+			"image": "img1.png"
+		},
+		{
+			"price": "320  kr"
+		},
+		{ 
+			"time": "30 min"
+		}
+	],
+		"studio4": [{
+			"name": "Hair & Nu"
+		},
+		{
+			"image": "img2.png"
+		},
+		{
+			"price": "720  kr"
+		},
+		{ 
+			"time": "60 min"
+		}
+	],
+		"studio5": [{
+			"name": "Hårley Davidson"
+		},
+		{
+			"image": "img2.png"
+		},
+		{
+			"price": "720  kr"
+		},
+		{ 
+			"time": "60 min"
+		}
+	]
+	}
+}

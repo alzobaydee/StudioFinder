@@ -1,0 +1,274 @@
+{
+	"studios": {
+		"studio1": [
+			{
+				"name": "Sax & Fön"
+			},
+			{
+				"image": "img1.png"
+			},
+			{
+				"info": [
+					{
+						"address": "Rådmansgatan 46, 113 57 Stockholm"
+					},
+					{
+						"opening hours": "Öppet till 19:00 idag"
+					},
+					{
+						"website": "www.salongweb.se"
+					},
+					{
+						"description": "Lorem ipsum dolor sit ame vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat. acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+					}
+				]
+			},
+			{
+				"schedule": "No available time to show"
+			},
+			{
+				"favourite": 0
+			},
+			{
+				"rating": [
+					{
+						"startCount":4
+					},
+					{
+						"reviewCount":32
+					}
+				]
+			},
+			{
+				"appointment": [
+					{
+						"prices": [
+							{
+								"time":"30 min"
+							},
+							{
+								"price":"320 kr"
+							}
+						]
+					}
+				]
+			}
+		],
+		"studio2": [
+			{
+				"name": "Hårizont"
+			},
+			{
+				"image": "img1.png"
+			},
+			{
+				"info": [
+					{
+						"address": "Rådmansgatan 46, 113 57 Stockholm"
+					},
+					{
+						"opening hours": "Öppet till 19:00 idag"
+					},
+					{
+						"website": "www.salongweb.se"
+					},
+					{
+						"description": "Lorem ipsum dolor sit ame vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat. acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+					}
+				]
+			},
+			{
+				"schedule": "No available time to show"
+			},
+			{
+				"favourite": 0
+			},
+			{
+				"rating": [
+					{
+						"startCount":4
+					},
+					{
+						"reviewCount":32
+					}
+				]
+			},
+			{
+				"appointment": [
+					{
+						"prices": [
+							{
+								"time":"30 min"
+							},
+							{
+								"price":"320 kr"
+							}
+						]
+					}
+				]
+			}
+		],
+		"studio3": [
+			{
+				"name": "Hårhuset"
+			},
+			{
+				"image": "img1.png"
+			},
+			{
+				"info": [
+					{
+						"address": "Rådmansgatan 46, 113 57 Stockholm"
+					},
+					{
+						"opening hours": "Öppet till 19:00 idag"
+					},
+					{
+						"website": "www.salongweb.se"
+					},
+					{
+						"description": "Lorem ipsum dolor sit ame vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat. acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+					}
+				]
+			},
+			{
+				"schedule": "No available time to show"
+			},
+			{
+				"favourite": 0
+			},
+			{
+				"rating": [
+					{
+						"startCount":4
+					},
+					{
+						"reviewCount":32
+					}
+				]
+			},
+			{
+				"appointment": [
+					{
+						"prices": [
+							{
+								"time":"30 min"
+							},
+							{
+								"price":"320 kr"
+							}
+						]
+					}
+				]
+			}
+		],
+		"studio4": [
+			{
+				"name": "Hair & Nu"
+			},
+			{
+				"image": "img2.png"
+			},
+			{
+				"info": [
+					{
+						"address": "Rådmansgatan 46, 113 57 Stockholm"
+					},
+					{
+						"opening hours": "Öppet till 19:00 idag"
+					},
+					{
+						"website": "www.salongweb.se"
+					},
+					{
+						"description": "Lorem ipsum dolor sit ame vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat. acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+					}
+				]
+			},
+			{
+				"schedule": "No available time to show"
+			},
+			{
+				"favourite": 0
+			},
+			{
+				"rating": [
+					{
+						"startCount":4
+					},
+					{
+						"reviewCount":32
+					}
+				]
+			},
+			{
+				"appointment": [
+					{
+						"prices": [
+							{
+								"time":"60 min"
+							},
+							{
+								"price":"720 kr"
+							}
+						]
+					}
+				]
+			}
+		],
+		"studio5": [
+			{
+				"name": "Hårley Davidson"
+			},
+			{
+				"image": "img2.png"
+			},
+			{
+				"info": [
+					{
+						"address": "Rådmansgatan 46, 113 57 Stockholm"
+					},
+					{
+						"opening hours": "Öppet till 19:00 idag"
+					},
+					{
+						"website": "www.salongweb.se"
+					},
+					{
+						"description": "Lorem ipsum dolor sit ame vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat. acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+					}
+				]
+			},
+			{
+				"schedule": "No available time to show"
+			},
+			{
+				"favourite": 0
+			},
+			{
+				"rating": [
+					{
+						"startCount":4
+					},
+					{
+						"reviewCount":32
+					}
+				]
+			},
+			{
+				"appointment": [
+					{
+						"prices": [
+							{
+								"time":"60 min"
+							},
+							{
+								"price":"720 kr"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
